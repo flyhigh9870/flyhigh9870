@@ -11,7 +11,6 @@
 </div>
 
 ## blog
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=yujagreen&theme=default)](https://yujagreen.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=yujagreen)](https://yujagreen.tistory.com/)
 
 
