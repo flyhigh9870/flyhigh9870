@@ -10,7 +10,5 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div>
 
-## blog
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=yujagreen)](https://yujagreen.tistory.com/)
 
 
